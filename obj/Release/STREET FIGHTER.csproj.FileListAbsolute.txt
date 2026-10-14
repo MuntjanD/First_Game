@@ -1,0 +1,18 @@
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Release\bank calulator.exe.config
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Release\bank calulator.exe
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Release\bank calulator.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Release\XamlAnimatedGif.dll
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Release\XamlAnimatedGif.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\STREET FIGHTER.csproj.AssemblyReference.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\MainWindow.g.cs
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\App.g.cs
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\bank calulator_MarkupCompile.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\bank calulator_MarkupCompile.lref
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\MainWindow.baml
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\bank calulator.g.resources
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\bank_calulator.Properties.Resources.resources
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\STREET FIGHTER.csproj.GenerateResource.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\STREET FIGHTER.csproj.CoreCompileInputs.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\STREET FIGHTER.csproj.CopyComplete
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\bank calulator.exe
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Release\bank calulator.pdb

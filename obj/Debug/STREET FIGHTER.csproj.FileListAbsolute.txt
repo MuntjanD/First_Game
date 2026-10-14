@@ -1,0 +1,80 @@
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\bank calulator.exe.config
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\bank calulator.exe
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\bank calulator.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\MainWindow.g.cs
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\App.g.cs
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.lref
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\MainWindow.baml
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.g.resources
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank_calulator.Properties.Resources.resources
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.GenerateResource.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.CoreCompileInputs.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.CopyComplete
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.exe
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\bank calulator\bank calulator\bin\Debug\bank calulator.exe.config
+C:\Users\user\Desktop\bank calulator\bank calulator\bin\Debug\bank calulator.exe
+C:\Users\user\Desktop\bank calulator\bank calulator\bin\Debug\bank calulator.pdb
+C:\Users\user\Desktop\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.dll
+C:\Users\user\Desktop\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.pdb
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\App.g.cs
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.cache
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.lref
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\bank calulator.g.resources
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\bank_calulator.Properties.Resources.resources
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.GenerateResource.cache
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.CopyComplete
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\bank calulator.exe
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\bank calulator.pdb
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\LevelUP.g.cs
+C:\Users\user\Desktop\bank calulator\bank calulator\obj\Debug\LevelUP.baml
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.AssemblyReference.cache
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\LevelUP.g.cs
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\MainWindow.g.cs
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\App.g.cs
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.cache
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.lref
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator.exe
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator.pdb
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\bin\Debug\bank calulator.exe.config
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\bin\Debug\bank calulator.exe
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\bin\Debug\bank calulator.pdb
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.dll
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.pdb
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\LevelUP.baml
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\MainWindow.baml
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator.g.resources
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\bank_calulator.Properties.Resources.resources
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.GenerateResource.cache
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.CoreCompileInputs.cache
+C:\Users\EducationPC\Desktop\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET F.D9C4F038.Up2Date
+C:\C#Lesson\bank calulator\bank calulator\bin\Debug\bank calulator.exe.config
+C:\C#Lesson\bank calulator\bank calulator\bin\Debug\bank calulator.exe
+C:\C#Lesson\bank calulator\bank calulator\bin\Debug\bank calulator.pdb
+C:\C#Lesson\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.dll
+C:\C#Lesson\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.pdb
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.AssemblyReference.cache
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator.exe.config
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\LevelUP.g.cs
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\MainWindow.g.cs
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\App.g.cs
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.cache
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.lref
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\LevelUP.baml
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\MainWindow.baml
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator.g.resources
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\bank_calulator.Properties.Resources.resources
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.GenerateResource.cache
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET FIGHTER.csproj.CoreCompileInputs.cache
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\STREET F.D9C4F038.Up2Date
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator.exe
+C:\C#Lesson\bank calulator\bank calulator\obj\Debug\bank calulator.pdb

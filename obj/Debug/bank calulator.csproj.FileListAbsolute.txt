@@ -1,0 +1,17 @@
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\bank calulator.exe.config
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\bank calulator.exe
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\bank calulator.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\MainWindow.g.cs
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\App.g.cs
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator_MarkupCompile.lref
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\MainWindow.baml
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.g.resources
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank_calulator.Properties.Resources.resources
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.csproj.GenerateResource.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.csproj.CoreCompileInputs.cache
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.exe
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.dll
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\bin\Debug\XamlAnimatedGif.pdb
+C:\Users\Muntik\source\repos\bank calulator\bank calulator\obj\Debug\bank calulator.csproj.CopyComplete

@@ -1,0 +1,41 @@
+﻿<Window x:Class="StreetFighter_Game.LevelUP"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StreetFighter_Game"
+        mc:Ignorable="d"
+        Title="LevelUP" Height="450" Width="800">
+    <Grid x:Name="LvlUPForm" HorizontalAlignment="Right" Width="800">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/rpgback.jpg"/>
+        </Grid.Background>
+        <Button x:Name="Buton_LVL_Damage" Content="DAMAGE" HorizontalAlignment="Left" Margin="247,321,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Height="20" RenderTransformOrigin="0.487,-0.173">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="Button_LVL_Block" Content="BLOCK" HorizontalAlignment="Left" Margin="360,321,0,0" VerticalAlignment="Top" Width="76" Grid.Column="1" Height="20" Click="Button_LVL_Block_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="Button_LVL_Heal" Content="HEAL&#xD;&#xA;" HorizontalAlignment="Left" Margin="490,321,0,0" VerticalAlignment="Top" Width="72" Height="20" Grid.Column="1" Click="Button_LVL_Heal_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label x:Name="Label_Win" Grid.Column="1" Content="                         CONGRATULATIONS&#xD;&#xA;                                 YOU WIN &#xD;&#xA;                              Take Reward" HorizontalAlignment="Left" Margin="158,71,0,0" VerticalAlignment="Top" Width="480" Height="114" FontWeight="Bold" FontSize="20">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFEF7F7" Offset="0.028"/>
+                    <GradientStop Color="#FFFF1A1A" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+    </Grid>
+</Window>
